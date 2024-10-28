@@ -7,7 +7,7 @@
 
 .hammersmith-one-regular {
     font-family: "Hammersmith One", sans-serif;
-  }
+}
 
 .texto-azul {
     color: #5270AA;
@@ -16,6 +16,7 @@
 .texto-rosa {
     color: #FF4397;
 }
+
 .texto-violeta {
     color: #8952A9;
 }
@@ -27,4 +28,7 @@
 .texto-grande {
     font-size: 25px;
 }
-  
+
+.texto-mediano {
+    font-size: 20px;
+}
